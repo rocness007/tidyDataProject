@@ -10,6 +10,8 @@
 ###
 *In order to use the script, the working directory has to contain an unzipped file containing the "UCI HAR Dataset".
 ###
+*The R script loads an R library "reshape2" ; please have this library installed prior to using the R script.
+###
 *The script will write a text file to the working directory titled "tidyData".
 ###
 *The "tidyData" text file is a merged and subsetted dataset version of the original files found in "UCI HAR Dataset".
