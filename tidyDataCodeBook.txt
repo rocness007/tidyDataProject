@@ -1,2 +1,0 @@
-This file is used as a code book to explain each variable that appears in the tidyData text file created from run_analysis.R.
-
