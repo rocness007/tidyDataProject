@@ -3,7 +3,8 @@
 ##This README document explains how the tidy dataset was generated for the Coursera Course Getting and Cleaning Data.
 *Background information of the data used can be found at <http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones>.
 ##
-*The original dataset can be found at <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>. 
+*The original dataset can be found at <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>.
+##There is a code book which explains the variables we generated in a Microsoft Word document included in this Git repository <https://github.com/rocness007/tidyDataProject>.
 ###run_analysis.R Script General Information
 *This script has been created to assist in generating the tidy data set.
 ###
